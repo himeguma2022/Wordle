@@ -1,0 +1,9 @@
+*Game starts
+Guess 1: temperate
+
+Potential other guesses at this point include: 
+No other potential guesses...Correct word here -> Guess 2: GIVE UP
+
+Potential other guesses at this point include: 
+No other potential guesses...Game took 2 turns to finish
+*Game end

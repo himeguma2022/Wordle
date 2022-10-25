@@ -1,0 +1,1039 @@
+raise
+>	carts
+>	>	warns
+>	>	>	yards
+>	>	>	>	marks
+>	>	>	>	>	barks
+>	>	>	>	>	barfs
+>	>	>	>	>	farms
+>	>	>	wards
+>	>	tarps
+>	>	warts
+>	>	cards
+>	>	>	carps
+>	ghost
+>	>	lossy
+>	>	plush
+>	>	>	blush
+>	>	>	>	flush
+>	>	>	>	>	slush
+>	>	pussy
+>	>	>	fussy
+>	>	gloss
+>	>	gypsy
+>	>	slosh
+>	>	floss
+>	>	boost
+>	clots
+>	>	loots
+>	>	skull
+>	>	molds
+>	>	>	holds
+>	>	>	>	folds
+>	>	>	golfs
+>	>	>	>	yolks
+>	>	>	>	>	polos
+>	>	>	>	>	>	solos
+>	>	>	>	>	>	polls
+>	>	>	>	folks
+>	>	>	fouls
+>	>	>	>	logos
+>	>	>	>	souls
+>	>	>	>	fowls
+>	>	>	>	bowls
+>	>	>	dolls
+>	>	hoods
+>	>	>	zooms
+>	>	>	foods
+>	>	docks
+>	>	>	jocks
+>	>	goths
+>	>	>	tombs
+>	>	>	moths
+>	>	sound
+>	>	bolts
+>	>	>	volts
+>	>	>	lofts
+>	>	stung
+>	>	>	stump
+>	>	>	>	study
+>	>	>	>	>	stuff
+>	>	>	stunk
+>	>	>	>	stunt
+>	>	plots
+>	>	pools
+>	>	>	loops
+>	>	>	fools
+>	>	stuck
+>	>	scums
+>	>	slugs
+>	>	>	slums
+>	>	soups
+>	>	>	gongs
+>	>	>	>	wombs
+>	>	>	>	>	bombs
+>	>	>	>	>	dojos
+>	>	thugs
+>	>	>	stubs
+>	>	>	myths
+>	>	flops
+>	>	>	blobs
+>	>	>	plops
+>	>	sluts
+>	>	shout
+>	>	>	stood
+>	>	combs
+>	>	slump
+>	>	scuff
+>	>	jumps
+>	>	>	pumps
+>	>	>	>	mumps
+>	>	costs
+>	>	tools
+>	>	sculp
+>	>	shuts
+>	>	south
+>	>	locks
+>	girls
+>	>	birds
+>	>	>	virus
+>	right
+>	lanes
+>	>	dates
+>	>	>	cages
+>	>	>	>	makes
+>	>	>	>	>	bakes
+>	>	>	>	>	>	fakes
+>	>	>	>	>	>	>	wakes
+>	>	>	>	>	mazes
+>	>	>	>	>	vapes
+>	>	>	>	>	>	hazes
+>	>	>	>	>	>	>	faxes
+>	>	>	>	>	>	>	>	waxes
+>	>	>	>	>	>	>	>	babes
+>	>	>	>	>	>	paves
+>	>	>	>	>	>	faves
+>	>	>	>	>	>	>	waves
+>	>	>	>	>	>	>	>	saves
+>	>	>	>	capes
+>	>	>	>	>	cakes
+>	>	>	>	>	>	cafes
+>	>	>	>	>	>	>	caves
+>	>	>	>	>	>	>	>	cases
+>	>	>	>	paces
+>	>	>	>	>	faces
+>	>	>	>	mages
+>	>	>	>	>	wages
+>	>	>	>	>	>	sages
+>	>	>	>	games
+>	>	>	>	>	gazes
+>	>	>	>	>	>	gases
+>	>	>	gates
+>	>	>	>	mates
+>	>	>	>	>	hates
+>	>	>	>	>	>	fates
+>	>	>	tapes
+>	>	>	>	tames
+>	>	>	>	>	takes
+>	>	>	>	>	>	taxes
+>	>	canes
+>	>	>	panes
+>	>	tales
+>	>	>	sales
+>	>	based
+>	>	>	saved
+>	>	>	>	sawed
+>	talon
+>	>	canal
+>	>	>	banal
+>	>	>	naval
+>	>	patch
+>	>	>	match
+>	>	>	>	batch
+>	>	>	>	>	watch
+>	>	>	>	>	>	catch
+>	>	>	>	>	>	>	hatch
+>	>	>	fatty
+>	>	latch
+>	>	happy
+>	>	daunt
+>	>	>	panty
+>	>	magot
+>	>	mango
+>	>	tango
+>	>	laugh
+>	>	>	madly
+>	>	taboo
+>	>	tacky
+>	scorn
+>	>	torus
+>	>	>	ports
+>	>	>	forms
+>	>	>	>	worms
+>	>	drops
+>	>	>	frogs
+>	>	>	>	grows
+>	>	>	>	brows
+>	>	>	props
+>	>	sport
+>	>	>	short
+>	>	>	storm
+>	>	>	>	story
+>	>	crows
+>	>	turns
+>	>	curls
+>	>	norms
+>	>	corns
+>	>	tours
+>	>	odors
+>	>	>	doors
+>	alone
+>	>	angle
+>	>	>	ankle
+>	>	ample
+>	>	>	apple
+>	>	plate
+>	>	>	place
+>	>	>	blade
+>	>	whale
+>	>	>	leave
+>	>	acute
+>	>	>	amaze
+>	>	>	>	awake
+>	>	abode
+>	>	>	above
+>	>	peace
+>	>	>	evade
+>	>	>	>	quake
+>	>	>	chafe
+>	>	plane
+>	stain
+>	>	snail
+>	>	slain
+>	horse
+>	>	worse
+>	saint
+>	>	tails
+>	>	>	baits
+>	>	>	>	waits
+>	>	gains
+>	>	>	pains
+>	>	>	>	mains
+>	>	pails
+>	>	>	mails
+>	>	>	>	hails
+>	>	>	>	>	bails
+>	>	>	>	>	>	fails
+>	>	>	>	>	>	>	wails
+>	>	>	maids
+>	>	nails
+>	>	sails
+>	horde
+>	>	there
+>	>	>	where
+>	>	wrote
+>	>	>	broke
+>	>	>	>	prove
+>	>	>	ombre
+>	>	force
+>	>	>	forge
+>	>	>	>	forme
+>	>	>	gorge
+>	>	three
+>	>	nerve
+>	>	>	verge
+>	noter
+>	>	under
+>	>	metro
+>	>	enter
+>	>	clerk
+>	>	>	merry
+>	>	>	>	berry
+>	>	>	>	>	ferry
+>	>	>	herby
+>	>	>	perch
+>	>	>	>	merch
+>	>	>	>	mercy
+>	>	>	query
+>	>	>	>	every
+>	>	>	perky
+>	>	>	wreck
+>	>	erupt
+>	>	>	erect
+>	>	>	twerk
+>	>	>	>	hertz
+>	>	>	exert
+>	>	overt
+>	>	lover
+>	>	>	poker
+>	>	>	>	mower
+>	>	>	>	>	boxer
+>	>	>	>	power
+>	>	>	>	joker
+>	>	>	lower
+>	>	>	cover
+>	>	never
+>	>	tenor
+>	>	upper
+>	>	utter
+>	>	loner
+>	>	>	boner
+>	>	toner
+>	>	other
+>	>	green
+>	lions
+>	>	ticks
+>	>	>	highs
+>	>	>	gifts
+>	>	>	>	fists
+>	>	>	discs
+>	>	icons
+>	>	pints
+>	>	>	mints
+>	>	>	>	hints
+>	>	>	>	>	tints
+>	>	sight
+>	>	>	visit
+>	>	wilts
+>	>	>	films
+>	>	>	>	silks
+>	>	>	>	>	gills
+>	>	>	>	>	>	pills
+>	>	>	>	>	>	>	hills
+>	>	>	>	>	>	>	>	bills
+>	>	>	>	>	kills
+>	>	>	>	fills
+>	>	>	>	mills
+>	>	>	tilts
+>	>	>	tills
+>	>	solid
+>	>	stoic
+>	>	lifts
+>	>	>	lists
+>	>	idols
+>	>	music
+>	>	sonic
+>	guide
+>	>	voice
+>	>	>	white
+>	>	>	>	while
+>	>	quite
+>	mines
+>	>	bites
+>	>	>	files
+>	>	>	>	pikes
+>	>	>	>	>	dives
+>	>	>	>	>	>	gives
+>	>	>	>	>	>	>	hives
+>	>	>	>	>	>	>	>	wives
+>	>	>	>	>	hikes
+>	>	>	>	>	>	yikes
+>	>	>	>	>	pipes
+>	>	>	>	fives
+>	>	>	>	>	fixes
+>	>	>	bikes
+>	>	fines
+>	>	>	vines
+>	>	>	>	wines
+>	rated
+>	>	ramen
+>	>	>	rarer
+>	>	raced
+>	>	>	raged
+>	>	>	>	raped
+>	omits
+>	>	stick
+>	>	>	still
+>	>	spiny
+>	>	>	shiny
+>	>	>	swing
+>	>	>	sniff
+>	>	>	spill
+>	>	>	spicy
+>	>	>	>	spiky
+>	>	twins
+>	>	>	twigs
+>	>	quits
+>	snore
+>	>	store
+>	>	>	score
+>	>	>	>	spore
+>	>	>	>	>	smore
+>	>	>	>	>	>	shore
+>	>	>	>	>	>	>	swore
+>	>	surge
+>	>	>	spree
+>	>	>	>	serve
+>	liner
+>	>	hired
+>	>	>	fired
+>	>	>	>	wired
+>	>	tiger
+>	>	>	dicer
+>	>	>	>	hiker
+>	>	>	>	>	viper
+>	>	>	>	>	>	wiper
+>	>	>	>	>	>	fiber
+>	>	>	>	>	>	>	fixer
+>	>	>	>	>	>	>	mixer
+>	>	>	>	>	biker
+>	>	>	>	cider
+>	>	>	>	diver
+>	>	>	>	wider
+>	>	>	giver
+>	>	>	timer
+>	>	liter
+>	>	>	liver
+>	>	petri
+>	>	>	merit
+>	>	miner
+>	>	peril
+>	>	their
+>	learn
+>	>	anger
+>	>	great
+>	>	>	after
+>	>	>	dream
+>	>	>	>	break
+>	>	>	>	>	freak
+>	>	>	>	>	>	wreak
+>	>	>	>	bread
+>	>	heart
+>	>	opera
+>	>	clear
+>	close
+>	>	those
+>	>	>	whose
+>	>	these
+>	>	>	musse
+>	>	>	>	sense
+>	>	house
+>	ocean
+>	>	metal
+>	>	>	equal
+>	>	dealt
+>	>	>	meaty
+>	>	>	>	heath
+>	>	>	alley
+>	>	>	>	appel
+>	>	>	abbey
+>	>	>	delta
+>	>	>	leaky
+>	>	>	death
+>	>	>	heavy
+>	>	clean
+>	>	teach
+>	>	>	exact
+>	>	meant
+>	>	began
+>	count
+>	>	pound
+>	>	>	mound
+>	>	>	>	bound
+>	>	>	>	>	found
+>	>	>	young
+>	>	clock
+>	>	futon
+>	>	block
+>	>	month
+>	>	donut
+>	>	touch
+>	>	blood
+>	>	pluto
+>	>	clout
+>	>	clunk
+>	>	blown
+>	>	>	flown
+>	>	>	known
+>	>	>	nylon
+>	>	notch
+>	>	lymph
+>	>	mount
+>	>	could
+>	>	blond
+>	>	would
+>	>	mouth
+>	>	cloth
+>	notes
+>	>	clues
+>	>	>	glues
+>	>	>	edges
+>	>	>	dukes
+>	>	>	>	fumes
+>	>	>	>	>	buses
+>	>	>	>	>	fuses
+>	>	>	>	pukes
+>	>	>	>	>	jukes
+>	>	>	>	dudes
+>	>	>	cubes
+>	>	>	mules
+>	>	steel
+>	>	>	sheet
+>	>	comes
+>	>	>	modes
+>	>	>	loves
+>	>	>	>	hopes
+>	>	>	>	>	dozes
+>	>	>	>	>	>	doses
+>	>	>	>	>	>	yokes
+>	>	>	>	>	>	>	jokes
+>	>	>	>	>	>	>	boxes
+>	>	>	>	>	>	>	>	foxes
+>	>	>	>	>	popes
+>	>	>	>	loses
+>	>	spell
+>	>	>	smell
+>	>	>	>	shell
+>	>	cents
+>	>	>	dents
+>	>	>	>	vents
+>	>	>	>	>	tents
+>	>	>	teens
+>	>	>	tends
+>	>	duels
+>	>	>	cells
+>	>	>	>	yells
+>	>	>	>	>	wells
+>	>	>	jesus
+>	>	>	pecks
+>	>	>	clefs
+>	>	>	melds
+>	>	>	>	welds
+>	>	>	deeds
+>	>	>	beefs
+>	>	>	sleds
+>	>	>	fuels
+>	>	>	decks
+>	>	>	>	desks
+>	>	>	helps
+>	>	lends
+>	>	>	mends
+>	>	>	>	bends
+>	>	>	>	>	fends
+>	>	>	>	>	>	vends
+>	>	>	>	>	>	>	sends
+>	>	unset
+>	>	nodes
+>	>	>	noses
+>	>	cones
+>	>	tones
+>	>	scent
+>	>	seven
+>	>	spend
+>	>	hosed
+>	>	sleep
+>	>	>	speed
+>	>	tunes
+>	>	setup
+>	clone
+>	>	bulge
+>	>	>	melee
+>	>	>	ledge
+>	>	>	levee
+>	>	dodge
+>	>	nudge
+>	>	>	venue
+>	>	longe
+>	>	>	noble
+>	>	flute
+>	>	>	plume
+>	>	dunce
+>	>	>	pence
+>	>	>	>	hence
+>	>	>	>	>	fence
+>	>	fudge
+>	>	>	thyme
+>	>	>	>	tepee
+>	>	>	>	theme
+>	>	>	hedge
+>	>	geode
+>	>	lunge
+>	>	gnome
+>	>	globe
+>	>	>	glove
+>	>	lodge
+>	>	ounce
+>	>	uncle
+>	nerds
+>	>	deers
+>	>	sheer
+>	>	leers
+>	>	>	beers
+>	>	>	>	veers
+>	>	urges
+>	>	>	brews
+>	>	>	trees
+>	>	>	>	frees
+>	>	zeros
+>	>	>	kerbs
+>	>	>	>	herbs
+>	>	>	>	>	verbs
+>	>	>	>	serfs
+>	>	pores
+>	>	sewer
+>	>	ferns
+>	>	herds
+>	giant
+>	>	audit
+>	>	viola
+>	>	>	lilac
+>	>	>	villa
+>	>	claim
+>	>	again
+>	>	plain
+>	>	tidal
+>	>	piano
+>	>	final
+>	>	audio
+>	north
+>	>	tumor
+>	>	>	troll
+>	>	>	troop
+>	>	>	trout
+>	>	>	tutor
+>	>	group
+>	>	>	crowd
+>	>	>	prowl
+>	>	>	>	promo
+>	>	>	>	>	proxy
+>	>	>	>	>	>	proof
+>	>	>	occur
+>	>	chord
+>	>	world
+>	>	hurry
+>	>	wrong
+>	>	>	brown
+>	>	throw
+>	>	bourd
+>	>	>	color
+>	>	front
+>	>	truck
+>	salon
+>	>	pants
+>	>	>	hands
+>	>	>	>	hangs
+>	>	>	>	bangs
+>	>	>	>	>	manas
+>	>	>	>	>	fangs
+>	>	>	>	>	banks
+>	>	>	>	bands
+>	>	>	>	>	wands
+>	>	>	nasty
+>	>	>	tanks
+>	>	>	wants
+>	>	mauls
+>	>	>	hauls
+>	>	>	lamps
+>	>	malts
+>	>	>	halfs
+>	>	>	>	galas
+>	>	>	>	>	walks
+>	>	>	>	>	>	calls
+>	>	>	>	>	>	>	balls
+>	>	>	>	falls
+>	>	>	>	halls
+>	>	>	talks
+>	>	sandy
+>	>	>	sauna
+>	>	>	sands
+>	>	tacks
+>	>	>	baths
+>	>	lands
+>	>	>	lawns
+>	crust
+>	>	trust
+>	>	frost
+>	>	worst
+>	>	truss
+>	>	brush
+>	>	crush
+>	>	burst
+>	>	gross
+>	>	cross
+>	>	torso
+>	tears
+>	>	gears
+>	>	>	pears
+>	>	>	>	hears
+>	>	>	>	>	bears
+>	>	>	>	>	>	years
+>	>	>	>	>	>	>	fears
+>	>	>	>	>	>	>	>	wears
+>	>	asper
+>	>	>	smear
+>	>	>	>	shear
+>	>	>	>	>	swear
+>	>	areas
+>	slant
+>	>	clans
+>	>	>	plans
+>	>	>	>	flans
+>	>	claws
+>	>	comas
+>	>	slabs
+>	>	>	slays
+>	>	colas
+>	>	>	usual
+>	>	stats
+>	>	scuba
+>	>	>	sobas
+>	>	small
+>	>	>	shall
+>	>	coats
+>	>	>	goats
+>	>	>	>	moats
+>	>	>	>	>	boats
+>	>	stand
+>	>	spawn
+>	>	>	snaps
+>	>	>	snags
+>	>	altos
+>	>	aunts
+>	>	loans
+>	laced
+>	>	layed
+>	>	named
+>	>	>	hated
+>	>	>	>	baked
+>	>	>	>	>	faked
+>	>	>	>	>	>	waked
+>	>	>	>	>	waged
+>	>	>	>	>	>	waved
+>	>	>	>	>	>	>	waxed
+>	>	>	>	>	>	faxed
+>	>	>	>	dated
+>	>	>	naked
+>	>	paced
+>	melon
+>	>	upend
+>	>	poked
+>	>	>	hoped
+>	>	>	coded
+>	>	>	>	bowed
+>	>	>	>	>	boxed
+>	>	>	>	>	>	booed
+>	>	>	>	>	dozed
+>	>	venom
+>	>	unmet
+>	>	>	enemy
+>	>	blend
+>	>	loved
+>	>	>	vowel
+>	>	moped
+>	>	>	moved
+>	>	bench
+>	>	>	bendy
+>	>	>	penny
+>	>	newly
+>	>	teeth
+>	>	jelly
+>	>	check
+>	>	wheel
+>	>	money
+>	>	women
+>	>	often
+>	>	level
+>	carol
+>	>	cargo
+>	>	labor
+>	>	>	valor
+>	>	manor
+>	>	>	mayor
+>	>	>	>	major
+>	>	>	vapor
+>	>	party
+>	>	baron
+>	>	carry
+>	trans
+>	>	smart
+>	>	>	start
+>	>	solar
+>	>	>	oscar
+>	>	>	sugar
+>	>	>	scrap
+>	>	>	>	scram
+>	>	>	>	spray
+>	>	sorta
+>	>	>	strap
+>	>	>	sutra
+>	>	sonar
+>	>	traps
+>	>	arson
+>	>	orals
+>	>	>	crams
+>	>	>	>	grabs
+>	>	>	>	crabs
+>	>	snarl
+>	>	>	snark
+>	>	orcas
+>	>	sharp
+>	tonic
+>	>	pinch
+>	>	pitch
+>	>	>	bitch
+>	>	>	>	witch
+>	>	tunic
+>	>	imply
+>	>	>	milky
+>	>	minty
+>	>	>	ninth
+>	>	zilch
+>	>	tight
+>	>	pupil
+>	>	pilot
+>	>	login
+>	>	igloo
+>	>	light
+>	>	>	might
+>	>	>	>	fight
+>	>	unlid
+>	>	night
+>	>	>	nifty
+>	>	topic
+>	>	unlit
+>	>	digit
+>	>	timid
+>	>	pinky
+>	>	vomit
+>	>	bingo
+>	stone
+>	>	spoke
+>	>	solve
+>	canoe
+>	>	table
+>	>	>	maple
+>	>	>	>	eagle
+>	>	>	badge
+>	>	>	>	maybe
+>	>	>	fable
+>	>	>	bathe
+>	>	>	latte
+>	>	>	vague
+>	>	>	value
+>	>	cable
+>	>	lance
+>	>	>	dance
+>	trade
+>	>	azure
+>	>	>	agree
+>	round
+>	>	rugby
+>	>	>	rummy
+>	>	rocky
+>	>	>	robot
+>	>	>	>	rotor
+>	>	rough
+>	>	rumor
+>	least
+>	patio
+>	>	habit
+>	>	manic
+>	>	>	valid
+>	>	>	cabin
+>	>	>	mania
+>	>	>	magic
+>	>	panic
+>	river
+>	organ
+>	>	crank
+>	>	>	drank
+>	>	>	>	prank
+>	>	>	>	>	frank
+>	>	coral
+>	>	>	polar
+>	>	>	>	molar
+>	>	>	moral
+>	>	ultra
+>	>	>	charm
+>	>	>	>	wharf
+>	>	>	>	dwarf
+>	>	>	>	>	award
+>	>	>	hydra
+>	>	>	chart
+>	>	>	>	apart
+>	>	>	alarm
+>	>	>	quark
+>	>	>	quart
+>	>	broad
+>	>	track
+>	>	board
+>	>	grand
+>	reply
+>	tilde
+>	>	title
+>	>	oldie
+>	>	mince
+>	>	>	niche
+>	>	>	wince
+>	>	>	piece
+>	>	>	hinge
+>	>	movie
+>	>	cutie
+>	>	bible
+>	nitro
+>	>	vizor
+>	>	minor
+>	>	corgi
+>	>	>	broil
+>	>	>	>	droid
+>	>	ivory
+>	>	fruit
+>	>	intro
+>	stead
+>	>	meats
+>	>	>	heats
+>	>	>	>	beats
+>	>	speak
+>	>	steam
+>	tonal
+>	>	human
+>	>	gland
+>	>	otaku
+>	>	>	about
+>	>	>	>	quota
+>	>	>	abbot
+>	>	>	outta
+>	>	plant
+>	>	chalk
+>	>	>	black
+>	>	>	plaza
+>	>	>	alpha
+>	>	>	flaky
+>	>	>	album
+>	>	tonga
+>	>	gloat
+>	>	allow
+>	>	nodal
+>	>	total
+>	>	along
+>	>	woman
+>	>	today
+>	>	mocha
+>	>	>	vodka
+>	>	adult
+>	>	notal
+>	point
+>	>	child
+>	>	>	quick
+>	>	>	build
+>	>	>	which
+>	>	>	chick
+>	>	thing
+>	>	>	think
+>	>	>	twink
+>	>	>	>	twiny
+>	>	>	tying
+>	>	thick
+>	>	joint
+>	print
+>	>	grind
+>	>	>	brink
+>	>	>	drink
+>	>	>	bring
+>	>	crimp
+>	riots
+>	>	rings
+>	>	>	risks
+>	>	risky
+>	rungs
+>	>	rocks
+>	>	>	roots
+>	>	>	>	rooms
+>	>	>	>	rolls
+>	>	rusty
+>	>	rusts
+>	suite
+>	>	spite
+>	>	>	smite
+>	>	slice
+>	>	>	snipe
+>	>	>	>	shine
+>	>	>	>	>	swine
+>	>	>	>	spine
+>	>	>	>	seize
+>	>	>	>	spike
+>	>	>	slide
+>	>	>	>	slime
+>	>	>	smile
+>	>	>	spice
+>	lacer
+>	>	early
+>	>	water
+>	>	>	maker
+>	>	>	>	paper
+>	>	>	waxer
+>	>	earth
+>	>	layer
+>	first
+>	arias
+>	paint
+>	>	daily
+>	rules
+>	cited
+>	>	field
+>	>	given
+>	>	legit
+>	>	mixed
+>	>	>	dived
+>	>	eight
+>	>	begin
+>	fires
+>	>	wires
+>	stale
+>	>	snake
+>	>	>	shake
+>	>	>	space
+>	>	>	>	shade
+>	>	>	>	>	shame
+>	>	>	>	>	>	shave
+>	>	>	>	spade
+>	>	slate
+>	>	scale
+>	>	stage
+>	>	>	stake
+>	>	>	>	state
+>	>	slave
+>	>	skate
+>	erase
+>	since
+>	>	siege
+>	>	>	sieve
+>	>	issue
+>	grass
+>	share
+>	risen
+>	>	rises
+>	>	rites
+>	>	>	rides
+>	coast
+>	>	flask
+>	>	>	spasm
+>	>	>	>	amass
+>	>	>	>	smash
+>	>	>	glass
+>	>	>	>	slash
+>	>	class
+>	radio
+>	voila
+>	quiet
+>	tapir
+>	rakes
+>	>	raves
+>	train
+>	>	chair
+>	noise
+>	cause
+>	write
+>	>	drive
+>	crest
+>	>	dress
+>	>	>	fresh
+>	marsh
+>	>	harsh
+>	large
+>	basic
+>	>	taxis
+>	shire
+>	range
+>	reach
+>	raspy
